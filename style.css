@@ -1,0 +1,17 @@
+nav{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    list-style: none;
+}
+body{
+    background: url(./images/projet\ class.jpg) center/cover;
+    min-height: 100vh;
+      
+
+}
+.fleurs{
+   display: flex;      
+  justify-content: space-around;
+
+}
+
+
